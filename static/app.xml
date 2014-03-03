@@ -29,8 +29,8 @@
      http://localhost/app.js for faster single user development -->
 <script src="//YOUR_APP_ID.appspot.com/static/app.js"></script>
 
-<h1><img src="//YOUR_APP_ID.appspot.com/static/hangouts-logo.png" 
-    alt="Google+ Hangouts Logo" height="50" width="50">Starter App</h1>
+<h1><img src="http://ih0.redbubble.net/image.12879125.1359/fc,550x550,white.jpg" 
+    alt="Google+ Hangouts Logo" height="50" width="50">Harold is here</h1>
 <div style="float: left; padding: 0px 20px; border-right: 1px solid #EEE">
   <p>Collaborate with your friends to count to a big number!</p>
   <dl>
